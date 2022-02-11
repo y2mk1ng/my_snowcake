@@ -1,5 +1,9 @@
 # my_snowcake
 
+## About
+
+A tool that makes my own snowcake filter.
+
 ## Todo
 
  - A neural network for human face recognition
